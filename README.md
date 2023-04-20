@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k124k3n
-- 👀 I’m interested in CS and Server-side Programming
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Computer Science and Server-side Programming
+- 🌱 I’m currently learning Full-stack Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fb: @rayhan.agoalex
 
